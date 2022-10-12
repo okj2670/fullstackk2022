@@ -1,0 +1,18 @@
+* {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+  position: relative;
+  top: 50px;
+}
+body {
+  background-color: rgb(37, 88, 219);
+}
+.time {
+  font-size: 100px;
+  font-weight: bolder;
+}
+.date {
+  font-size: 45px;
+  color: rgb(181, 28, 115);
+}
